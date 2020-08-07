@@ -1,2 +1,2 @@
-# Algorithm
-BounceOff and IsTouching Functions
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
